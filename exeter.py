@@ -88,12 +88,12 @@ def startprint():
         nitro = "Disabled"
 
     print(f'''{Fore.RESET}
-                      ██╗░░░██╗  ░█████╗░  ██████╗░  ███╗░░░███╗  ░█████╗░
+██╗░░░██╗  ░█████╗░  ██████╗░  ███╗░░░███╗  ░█████╗░
 ██║░░░██║  ██╔══██╗  ██╔══██╗  ████╗░████║  ██╔══██╗
 ╚██╗░██╔╝  ███████║  ██████╔╝  ██╔████╔██║  ███████║
 ░╚████╔╝░  ██╔══██║  ██╔══██╗  ██║╚██╔╝██║  ██╔══██║
 ░░╚██╔╝░░  ██║░░██║  ██║░░██║  ██║░╚═╝░██║  ██║░░██║
-░░░╚═╝░░░  ╚═╝░░╚═╝  ╚═╝░░╚═╝  ╚═╝░░░░░╚═╝  ╚═╝░░╚═╝    
+░░░╚═╝░░░  ╚═╝░░╚═╝  ╚═╝░░╚═╝  ╚═╝░░░░░╚═╝  ╚═╝░░╚═╝
 
                        {Fore.CYAN}Exeter v{SELFBOT.__version__} | {Fore.GREEN}Logged in as: {Exeter.user.name}#{Exeter.user.discriminator} {Fore.CYAN}| ID: {Fore.GREEN}{Exeter.user.id}   
                        {Fore.CYAN}Nitro Sniper | {Fore.GREEN}{nitro}
